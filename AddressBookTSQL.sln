@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookTSQL", "AddressBookTSQL\AddressBookTSQL.csproj", "{3EE01F9B-0DCE-4208-881C-E7691E9EC4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc_getaddressbook_dataimplemented-ERdiagramwithADO.net-TSQL", "uc_getaddressbook_dataimplemented-ERdiagramwithADO.net-TSQL\uc_getaddressbook_dataimplemented-ERdiagramwithADO.net-TSQL.csproj", "{BCD6FA8C-CB3B-4CDE-BB60-98DDA550B22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE01F9B-0DCE-4208-881C-E7691E9EC4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE01F9B-0DCE-4208-881C-E7691E9EC4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE01F9B-0DCE-4208-881C-E7691E9EC4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE01F9B-0DCE-4208-881C-E7691E9EC4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD6FA8C-CB3B-4CDE-BB60-98DDA550B22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD6FA8C-CB3B-4CDE-BB60-98DDA550B22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD6FA8C-CB3B-4CDE-BB60-98DDA550B22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD6FA8C-CB3B-4CDE-BB60-98DDA550B22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C79D50-6CDA-4FF7-96DF-58B84CF8CA05}
+	EndGlobalSection
+EndGlobal
